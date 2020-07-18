@@ -1,0 +1,27 @@
+
+table{
+	margin-top: 20px;
+}
+button{
+	margin-left: 15px;
+}
+.AddProduct{
+	margin-left:620px;
+}
+.form-row{
+	margin-left: 10px;
+}
+.home{
+	display: flex;
+	flex-wrap: wrap;
+	
+
+}
+.add{
+	padding: 15px ;
+	width: 250px;
+	height: auto;
+	margin: 10px;
+	text-align: center;
+}
+ 
